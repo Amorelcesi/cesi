@@ -1,6 +1,5 @@
 # Installation automatique de Nginx sur Linux
 
-## Étapes
 
 ```bash
 sudo bash -c "
